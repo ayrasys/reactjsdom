@@ -1,2 +1,0 @@
-# reactjsdom
-Created with CodeSandbox
